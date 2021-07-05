@@ -1,9 +1,4 @@
-# Trassembly
-
-<p align="center">
-  <img src="https://img.shields.io/github/license/RamadanIbrahem98/Trassembly?style=plastic&logo=appveyor&color=blue" alt="license" />
-  <img src="https://img.shields.io/github/last-commit/RamadanIbrahem98/Trassembly?style=plastic&logo=appveyor" alt="last-commit" />
-</p>
+# Assembly
 
 ![](assets/preview.png)
 
